@@ -1,0 +1,10 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f0f0f0" />
+  <rect x="100" y="60" width="200" height="80" rx="10" fill="#3f51b5" />
+  <circle cx="150" cy="100" r="20" fill="white" opacity="0.5" />
+  <circle cx="250" cy="100" r="5" fill="red" />
+  <circle cx="250" cy="80" r="5" fill="green" />
+  <circle cx="270" cy="90" r="5" fill="blue" />
+  <circle cx="230" cy="90" r="5" fill="yellow" />
+  <text x="200" y="170" text-anchor="middle">Complex State Spaces</text>
+</svg>

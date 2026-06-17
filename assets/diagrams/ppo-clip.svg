@@ -1,0 +1,9 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f0f0f0" />
+  <circle cx="100" cy="100" r="40" fill="#00c6ff" />
+  <circle cx="300" cy="100" r="40" fill="#0072ff" />
+  <path d="M 140 100 L 260 100" stroke="black" stroke-width="2" marker-end="url(#arrowhead)" />
+  <text x="100" y="160" text-anchor="middle">Old Policy</text>
+  <text x="300" y="160" text-anchor="middle">New Policy</text>
+  <text x="200" y="80" text-anchor="middle">Clipped Update</text>
+</svg>
